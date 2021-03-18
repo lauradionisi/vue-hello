@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.color_size {
+    color: rgb(23, 147, 151);
+    text-align: center;
+    font-size: 34px;
+}
+
+img {
+    width: 100%;
+}
+
+#app {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
